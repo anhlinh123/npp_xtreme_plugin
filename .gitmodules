@@ -1,0 +1,6 @@
+[submodule "libs/boost"]
+	path = libs/boost
+	url = https://github.com/boostorg/boost.git
+[submodule "libs/notepad-plus-plus"]
+	path = libs/notepad-plus-plus
+	url = https://github.com/notepad-plus-plus/notepad-plus-plus.git
