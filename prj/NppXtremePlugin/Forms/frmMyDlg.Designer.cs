@@ -1,4 +1,4 @@
-﻿namespace XtremePlugin
+﻿namespace NppXtremePlugin
 {
     partial class frmMyDlg
     {

@@ -5,7 +5,7 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
-namespace XtremePlugin
+namespace NppXtremePlugin
 {
     public partial class frmMyDlg : Form
     {

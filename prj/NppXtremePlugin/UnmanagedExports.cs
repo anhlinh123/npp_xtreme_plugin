@@ -3,7 +3,7 @@ using System.Runtime.InteropServices;
 using NppPluginNET;
 using NppPlugin.DllExport;
 
-namespace XtremePlugin
+namespace NppXtremePlugin
 {
     class UnmanagedExports
     {

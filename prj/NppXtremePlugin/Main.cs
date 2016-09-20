@@ -7,12 +7,12 @@ using System.Text;
 using System.Windows.Forms;
 using NppPluginNET;
 
-namespace XtremePlugin
+namespace NppXtremePlugin
 {
     class Main
     {
         #region " Fields "
-        internal const string PluginName = "XtremePlugin";
+        internal const string PluginName = "NppXtremePlugin";
         static string iniFilePath = null;
         static bool someSetting = false;
         static frmMyDlg frmMyDlg = null;

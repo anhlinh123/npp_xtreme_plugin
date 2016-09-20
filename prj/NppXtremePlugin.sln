@@ -8,7 +8,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Notepad++", "..\libs\notepa
 		{E56F6E12-089C-40ED-BCFD-923E5FA121A1} = {E56F6E12-089C-40ED-BCFD-923E5FA121A1}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XtremePlugin", "..\XtremePlugin\XtremePlugin.csproj", "{E56F6E12-089C-40ED-BCFD-923E5FA121A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NppXtremePlugin", "NppXtremePlugin\NppXtremePlugin.csproj", "{E56F6E12-089C-40ED-BCFD-923E5FA121A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,7 +63,6 @@ Global
 		{E56F6E12-089C-40ED-BCFD-923E5FA121A1}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
 		{E56F6E12-089C-40ED-BCFD-923E5FA121A1}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
 		{E56F6E12-089C-40ED-BCFD-923E5FA121A1}.Debug|Win32.ActiveCfg = Debug|Any CPU
-		{E56F6E12-089C-40ED-BCFD-923E5FA121A1}.Debug|Win32.Build.0 = Debug|Any CPU
 		{E56F6E12-089C-40ED-BCFD-923E5FA121A1}.Debug|x64.ActiveCfg = Debug|Any CPU
 		{E56F6E12-089C-40ED-BCFD-923E5FA121A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E56F6E12-089C-40ED-BCFD-923E5FA121A1}.Release|Any CPU.Build.0 = Release|Any CPU

@@ -7,8 +7,8 @@
     <ProjectGuid>{E56F6E12-089C-40ED-BCFD-923E5FA121A1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XtremePlugin</RootNamespace>
-    <AssemblyName>XtremePlugin</AssemblyName>
+    <RootNamespace>NppXtremePlugin</RootNamespace>
+    <AssemblyName>NppXtremePlugin</AssemblyName>
     <OutputPath>bin\Debug\</OutputPath>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileUpgradeFlags>
@@ -38,9 +38,8 @@
     <DebugType>full</DebugType>
     <ErrorReport>prompt</ErrorReport>
     <Optimize>false</Optimize>
-    <OutputPath>..\libs\notepad-plus-plus\PowerEditor\visual.net\Unicode Debug\Plugins\</OutputPath>
+    <OutputPath>..\..\libs\notepad-plus-plus\PowerEditor\visual.net\Unicode Debug\Plugins\</OutputPath>
     <PlatformTarget>x86</PlatformTarget>
-    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DefineConstants>TRACE</DefineConstants>
